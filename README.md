@@ -1,0 +1,1 @@
+# snowflake_certifcation_course_basic
