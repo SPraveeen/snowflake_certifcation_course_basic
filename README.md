@@ -1,3 +1,5 @@
+#### https://www.youtube.com/live/5rkHJQVBO54?si=cga7xjmIgVt__EAn
+
 # snowflake_certifcation_course_basic
 
 # Snowflake Training Roadmap
